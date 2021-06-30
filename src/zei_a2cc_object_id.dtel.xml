@@ -4,20 +4,33 @@
   <asx:values>
    <DD04V>
     <ROLLNAME>ZEI_A2CC_OBJECT_ID</ROLLNAME>
-    <DDLANGUAGE>D</DDLANGUAGE>
+    <DDLANGUAGE>E</DDLANGUAGE>
     <DOMNAME>CHAR61</DOMNAME>
     <HEADLEN>16</HEADLEN>
     <SCRLEN1>08</SCRLEN1>
     <SCRLEN2>08</SCRLEN2>
     <SCRLEN3>16</SCRLEN3>
-    <DDTEXT>Zeichenfeld Länge 61</DDTEXT>
-    <REPTEXT>Zeichenfeld</REPTEXT>
-    <SCRTEXT_S>Zeich61</SCRTEXT_S>
-    <SCRTEXT_M>Zeich61</SCRTEXT_M>
-    <SCRTEXT_L>Zeichenfeld</SCRTEXT_L>
+    <DDTEXT>Character field length 61</DDTEXT>
+    <REPTEXT>Character field</REPTEXT>
+    <SCRTEXT_S>Char61</SCRTEXT_S>
+    <SCRTEXT_M>Char61</SCRTEXT_M>
+    <SCRTEXT_L>Character field</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
     <REFKIND>D</REFKIND>
    </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Zeichenfeld Länge 61</DDTEXT>
+     <REPTEXT>Zeichenfeld</REPTEXT>
+     <SCRTEXT_S>Zeich61</SCRTEXT_S>
+     <SCRTEXT_M>Zeich61</SCRTEXT_M>
+     <SCRTEXT_L>Zeichenfeld</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
   </asx:values>
  </asx:abap>
 </abapGit>
